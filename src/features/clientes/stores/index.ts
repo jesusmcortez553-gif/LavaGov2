@@ -1,0 +1,1 @@
+export { useClienteStore } from './clienteStore'

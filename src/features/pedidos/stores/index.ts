@@ -1,0 +1,1 @@
+export { usePedidoStore } from './pedidoStore'
